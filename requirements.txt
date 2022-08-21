@@ -13,5 +13,6 @@ six==1.14.0
 starlette==0.12.9
 uvicorn==0.11.7
 websockets==9.1
-wrapt==1.11.2
 uvloop==0.14.0
+wrapt==1.11.2
+
